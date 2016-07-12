@@ -1,6 +1,6 @@
 # plist-to-alfredsnippets
 
-In case you're lazy, simply download a pre-built version from [here](https://github.com/lumaxis/plist-to-alfredsnippets/blob/master/samples/slack_emoji.alfredsnippets?raw=true)
+In case you're lazy, simply download a pre-built version from [here](https://github.com/lumaxis/plist-to-alfredsnippets/blob/master/samples/slack_emoji.alfredsnippets?raw=true).
 
 ***
 
