@@ -9,6 +9,8 @@ This Ruby script allows to convert a plist like the one provided on [Macmoji](ht
 
 ## Usage
 
+In case you're lazy, simply download a pre-built version from [here](https://github.com/lumaxis/plist-to-alfredsnippets/blob/master/samples/slack_emoji.alfredsnippets?raw=true)
+
 To always use the latest and greatest `.plist` from  simply run this command:
 
 ```ruby
